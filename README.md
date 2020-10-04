@@ -1,7 +1,7 @@
 # simple-snake
 a simple snake game based on electron
 
-##Screenshot
+## Screenshot
 ![01](Screenshot/01.png)
 
 
