@@ -1,3 +1,6 @@
+# Demo
+https://snake.stack42.xyz/
+
 # simple-snake
 a simple snake game based on electron
 
