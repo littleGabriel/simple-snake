@@ -1,4 +1,4 @@
-# Demo
+# Online Demo
 https://snake.stack42.xyz/
 
 # simple-snake
